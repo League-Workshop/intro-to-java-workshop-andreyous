@@ -21,7 +21,7 @@ public class DragonFight {
 		int playerAttack = 5;
 		// 5. Create a variable to hold the damage the dragon's attack does each round
 		int dragonAttack = 10;
-
+yes
 		// 6. Delete the slashes at the beginning of the next line.
 		while (playerHealth > 0 && dragonHealth > 0) { // this line of code keeps the battle going until someone's
 														// health reaches 0
